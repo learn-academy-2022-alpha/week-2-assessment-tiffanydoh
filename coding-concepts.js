@@ -69,5 +69,5 @@ class Learn {
 var learnStudent = new Learn("George")
 console.log(learnStudent)
 
-// a) Your answer:
+// a) Your answer: Learn {student: 'George', cohort: 'Alpha', year: 2022}
 // b) Verify and explain: Output -> Learn { student: 'George', cohort: 'Alpha', year: 2022 }. On line 69, a variable declaration has been made called learnStudent. That variable takes in the class Learn and inserts "George" as the name value in the class. By console logging, learnStudent, it calls on George along with all the properties/key-pair values in the class. 
